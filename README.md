@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-- 🔭 I’m currently working on DNS Traffic Analyzer
-- 🌱 I’m currently learning Networking and Traffic Analysis
+- 🔭 I’m currently working on **DNS Traffic Analyzer**
+- 🌱 I’m currently learning **Networking and Traffic Analysis**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya-mathur) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklavyamathurjodhpur@gmail.com) 
