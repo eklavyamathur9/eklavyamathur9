@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Networking and Traffic Analysis**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya-mathur) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklavyamathurjodhpur@gmail.com) <br> [![LeetCode Stats](https://leetcard.jacoblin.cool/eklavyamathur9)](https://leetcode.com/eklavyamathur9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya-mathur) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.eklavyamathur@gmail.com) <br> [![LeetCode Stats](https://leetcard.jacoblin.cool/eklavyamathur9)](https://leetcode.com/eklavyamathur9/)
 
 
 # 💻 Tech Stack:
