@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
 -->   
-# 💫 About Me:
+# 💫 About Me: 
 
 - 🔭 I’m currently working on **DNS Traffic Analyzer**
 - 🌱 I’m currently learning **Networking and Traffic Analysis**
