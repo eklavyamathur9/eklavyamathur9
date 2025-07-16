@@ -162,6 +162,6 @@ _Last updated: 2025-07-15 12:23 IST_
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Cybersecurity%20is%20not%20just%20a%20discipline%2C%20it's%20a%20responsibility.&fontSize=25&fontAlignY=77&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Cybersecurity%20is%20not%20just%20a%20discipline%2C%20it's%20a%20responsibility.&fontSize=25&fontAlignY=77&section=footer" width="100%"/>
 </p>
 
