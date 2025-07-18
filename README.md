@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<h3 align="center" font="JetBrains+Mono">I'm always looking to collaborate on projects that have a real impact on everyday life. If you're working on something meaningful, feel free to reach out — let's make a difference together!</h3>
+<h3 align="center" font="JetBrains+Mono">Seeking collaborations on projects with tangible, positive effects on daily living. If your work aligns, reach out – together, we can make an impact.</h3>
 
 ---
 
