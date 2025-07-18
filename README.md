@@ -150,7 +150,7 @@ Hello, I’m **Eklavya Mathur** — a passionate cybersecurity enthusiast pursui
 ---
 
 ## 🐍 GitHub Contribution Snake
- ![Snake animation](https://github.com/eklavyamathur9/eklavyamathur9/blob/output/github-contribution-grid-snake.svg)
+![Snake animation (dark)](https://raw.githubusercontent.com/eklavyamathur9/eklavyamathur9/output/github-snake-dark.svg)
 
 ---
 
