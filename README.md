@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Think%20encrypted.%20Design%20securely.%20Build%20smart.&fontSize=34&animation=twinkling&fontAlignY=35&reversal=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Cybersecurity:%20The%20invisible%20shield%20of%20the%20digital%20world.&textBg=false&fontSize=30" width="100%"/>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width:100%;">
+<!--<div style="display: flex; align-items: center; justify-content: space-between; width:100%;">
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4AE7E7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eklavya+Mathur;Cyber+Security+Enthusiast+%F0%9F%94%91;Building+TrueScope+to+fight+fake+news" alt="Typing SVG"/>
     </a>
-  </div>
+  </div>-->
  <div align="center">
     <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAd/ninjala-jane.gif" width="550" alt="Cybersecurity GIF"/>
   </div>
@@ -162,6 +162,6 @@ _Last updated: 2025-07-15 12:23 IST_
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Cybersecurity%20is%20not%20just%20a%20discipline%2C%20it's%20a%20responsibility.&fontSize=25&fontAlignY=77&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cybersecurity:%20A%20continuous%20journey,%20not%20a%20destination.&textBg=false&fontSize=30&section=footer" width="100%"/>
 </p>
 
