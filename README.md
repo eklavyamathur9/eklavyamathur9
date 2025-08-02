@@ -9,7 +9,7 @@
     </a>
   </div>-->
  <div align="center">
-    <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAd/ninjala-jane.gif" width="550" alt="Cybersecurity GIF"/>
+    <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAd/ninjala-jane.gif" width="550" alt="Cybersecurity GIF"/> 
   </div>
 </div>
 
