@@ -6,7 +6,7 @@
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4AE7E7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eklavya+Mathur;Cyber+Security+Enthusiast+%F0%9F%94%91;Building+TrueScope+to+fight+fake+news" alt="Typing SVG"/>
-    </a>
+    </a>  
   </div>-->
  <div align="center">
     <img src="https://media1.tenor.com/m/54mjjpuowCgAAAAd/ninjala-jane.gif" width="550" alt="Cybersecurity GIF"/> 
