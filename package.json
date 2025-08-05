@@ -1,0 +1,26 @@
+{
+  "name": "eklavyamathur9",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Cybersecurity:%20The%20invisible%20shield%20of%20the%20digital%20world.&textBg=false&fontSize=30\" width=\"100%\"/>\r </p>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklavyamathur9/eklavyamathur9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eklavyamathur9/eklavyamathur9/issues"
+  },
+  "homepage": "https://github.com/eklavyamathur9/eklavyamathur9#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.28.0"
+  }
+}
