@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Cybersecurity:%20The%20invisible%20shield%20of%20the%20digital%20world.&textBg=false&fontSize=30" width="100%"/>
 </p>      
   
-<!--<div style="display: flex; align-items: center; justify-content: space-between; width:100%;">
+<!--<div style="display: flex; align-items: center; justify-content: space-between; width:100%;"> 
   <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4AE7E7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Eklavya+Mathur;Cyber+Security+Enthusiast+%F0%9F%94%91;Building+TrueScope+to+fight+fake+news" alt="Typing SVG"/>
