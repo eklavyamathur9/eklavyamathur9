@@ -17,8 +17,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=#ff7600&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?color_snake=#39FF14&color_dots=#001a00,#003300,#00802b,#00cc44,#39ff14
+            dist/github-snake.gif?color_snake=#39FF14&color_dots=#001a00,#003300,#00802b,#00cc44,#39ff14
 
       - name: Commit and Push Snake Files
         uses: crazy-max/ghaction-github-pages@v4
