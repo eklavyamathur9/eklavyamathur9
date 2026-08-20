@@ -137,37 +137,6 @@
 
 ---
 
-# `$ ./fetch_stats.sh`
-<table style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eklavyamathur9&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=39FF14"/>
-    </td>
-    <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eklavyamathur9&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=39FF14"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=eklavyamathur9&background=000000&border=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=8B8B8B&stroke=39FF14"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## `$ cat trophies.log`
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eklavyamathur9&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## `$ git log --graph --oneline`
-![Snake animation (dark)](https://raw.githubusercontent.com/eklavyamathur9/eklavyamathur9/output/github-snake-dark.svg)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B3D0B,100:000000&text=Cybersecurity:%20A%20continuous%20journey,%20not%20a%20destination.&fontColor=39FF14&fontSize=30&section=footer&animation=fadeIn" width="100%"/>
 </p>
